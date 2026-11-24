@@ -1,7 +1,7 @@
 # Informe de situación del curso
 
 - **Enlace a Google Docs (cualquier persona con el enlace puede ver):**
-- **Archivo subido:** [`03-informe/informe.pdf](https://us.wps.com/cms/docs/d/cbMajkhg6146I3aS?platform=pc&refer=copylink)`
+- **Archivo subido:** https://us.wps.com/cms/docs/d/cbMajkhg6146I3aS?platform=pc&refer=copylink
 
 ## Estructura obligatoria del informe (1–2 páginas)
 1. **Resumen ejecutivo** (máximo 5 líneas)
