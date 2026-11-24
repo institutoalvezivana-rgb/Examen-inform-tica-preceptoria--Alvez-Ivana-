@@ -3,49 +3,47 @@
 **Pregunta del caso:** ¿Qué estudiantes necesitan atención, qué acciones corresponden y cómo se lo comunicamos a las familias respetando la privacidad?
 
 ## Síntesis
- Ley 26.206 — Ley de Educación Nacional
-La Ley 26.206 regula el ejercicio del derecho constitucional de enseñar y aprender en todo el territorio argentino
-. Fundamenta la educación y el conocimiento como un bien público y un derecho personal y social garantizados por el Estado
+1. ¿Qué estudiantes necesitan atención?
+De acuerdo con el marco normativo vigente, requieren atención prioritaria y diferenciada:
+Estudiantes en situación socioeconómica vulnerable o desfavorecida: Quienes afrontan condiciones de injusticia, marginación o discriminación
 .
-Responsabilidad del Estado: Asigna al Estado Nacional, las provincias y la Ciudad Autónoma de Buenos Aires la responsabilidad principal e indelegable de proveer una educación integral, permanente, gratuita y de calidad
-. Prohíbe expresamente la firma de tratados de libre comercio que conciban la educación como un servicio lucrativo o mercantilizable
+Estudiantes con discapacidades (temporales o permanentes), dificultades de aprendizaje o talentos especiales: Quienes requieren adaptaciones curriculares, recursos técnicos o seguimiento pedagógico específico
 .
-Obligatoriedad y estructura: La obligatoriedad escolar se extiende desde los 4 años de edad hasta la finalización de la Educación Secundaria
-. El Sistema Educativo Nacional se organiza en 4 niveles (Educación Inicial, Primaria, Secundaria y Superior) y 8 modalidades (Técnico Profesional, Artística, Especial, Permanente de Jóvenes y Adultos, Rural, Intercultural Bilingüe, Contextos de Privación de Libertad y Domiciliaria y Hospitalaria)
+Alumnas embarazadas, madres o padres adolescentes: Quienes requieren acompañamiento para garantizar la continuidad escolar pre y posparto sin ser discriminados o sancionados
 .
-Niveles del sistema: La Educación Inicial abarca a los niños desde los 45 días hasta los 5 años inclusive
-. La Educación Primaria es una unidad pedagógica obligatoria a partir de los 6 años de edad
-, mientras que la Educación Secundaria se divide en un Ciclo Básico común y un Ciclo Orientado diversificado según áreas del conocimiento o del trabajo
+Estudiantes con trayectorias escolares discontinuas o en riesgo de deserción: Quienes necesiten alternativas pedagógicas o institucionales para sostener la escolaridad obligatoria
 .
-Derechos y carrera docente: Garantiza a los docentes el derecho a la estabilidad en el cargo, salario digno, capacitación gratuita en servicio y libertad de cátedra
-. Asimismo, crea el Instituto Nacional de Formación Docente para planificar y ejecutar las políticas de formación docente inicial y continua en el país
+Estudiantes cuyos derechos fundamentales se encuentren amenazados o vulnerados: Aquellos cuyos derechos a la integridad física, psicológica o moral estén en peligro, conforme a los principios de la Ley 26.061
 .
-2. Ley 25.326 — Ley de Protección de los Datos Personales (Hábeas Data)
-La Ley 25.326 tiene por objeto la protección integral de los datos personales asentados en archivos, registros o bancos de datos (públicos o privados destinados a proveer informes) para garantizar el derecho al honor, a la intimidad y el acceso a la información registrada sobre las personas
+Estudiantes con afecciones de salud o situaciones particulares de escolarización: Aquellos imposibilitados de concurrir regularmente por razones de salud (más de 30 días), quienes se encuentren en zonas rurales o en contextos de privación de libertad
 .
-Principios de calidad y consentimiento: Establece que los datos recolectados deben ser ciertos, adecuados, pertinentes y no excesivos en relación con la finalidad para la que fueron obtenidos
-. Su tratamiento es ilícito sin el consentimiento libre, expreso e informado del titular expresado por escrito
-, salvo excepciones legales como el uso de fuentes de acceso público o el ejercicio de funciones estatales
+2. ¿Qué acciones corresponden institucionalmente?
+Las normas establecen líneas de acción concretas según las necesidades identificadas:
+Acompañamiento pedagógico y de trayectorias: Designar tutores o coordinadores de curso y disponer de espacios de apoyo para fortalecer los aprendizajes
 .
-Datos sensibles: Prohíbe con carácter general la formación de archivos que revelen información sensible (origen étnico, convicciones religiosas o políticas, afiliación sindical, salud o vida sexual), salvo por razones de interés general autorizadas por ley o en registros de miembros de entidades religiosas, políticas o sindicales
+Inclusión e integración educativa: Adaptar contenidos curriculares, proveer recursos pedagógicos y tecnológicos, asegurar la accesibilidad física y contar con personal especializado que trabaje junto al equipo docente
 .
-Derechos de los titulares: Garantiza el derecho de información
-, el derecho de acceso gratuito a la información propia a intervalos no inferiores a seis meses
-, y el derecho a exigir la rectificación, actualización, supresión o confidencialidad de datos inexactos en un plazo máximo de 5 días hábiles
+Intervención de gabinetes y articulación intersectorial: Convocar a los equipos interdisciplinarios (psicólogos, psicopedagogos, médicos) y articular con las áreas de salud y desarrollo social dentro del Sistema de Protección Integral de Derechos (Ley 26.061)
 .
-Acción judicial y control: Reglamenta la garantía constitucional de Hábeas Data para hacer valer estos derechos en el ámbito judicial
-. Además, establece un órgano de control descentralizado en el ámbito del Ministerio de Justicia y Derechos Humanos
- e incorpora sanciones administrativas
- y tipificaciones penales en el Código Penal por la inserción o acceso ilegítimo a datos falsos
+Garantía de permanencia en situaciones específicas: Adecuar la escolaridad mediante la modalidad domiciliaria y hospitalaria en casos de enfermedad prolongada o maternidad
+, e instalar salas de lactancia en los establecimientos
 .
-3. Ley 26.061 — Protección Integral de los Derechos de Niñas, Niños y Adolescentes
-La Ley 26.061 fija el marco normativo nacional para la protección de la infancia y la adolescencia en consonancia con la Convención sobre los Derechos del Niño, y se articula orgánicamente con el sistema educativo
-Articulación en el ámbito educativo: La normativa educativa debe garantizar explícitamente el respeto a los derechos consagrados en la Ley 26.061
-, fijando como deber explícito del personal docente la protección y garantía de los derechos de los estudiantes bajo su responsabilidad
-Inclusión e integración social: Mandata la coordinación intersectorial entre educación, salud y desarrollo social para asegurar la atención integral y la inclusión de niños desde el Nivel Inicial
-Asimismo, prohíbe cualquier tipo de discriminación o sanción institucional a las alumnas en estado de gravidez o maternidad, garantizando la continuidad de sus estudios
-Protección de sectores vulnerables: Garantiza el acceso, permanencia y trayectoria pedagógica en todos los niveles y modalidades educativas para personas con discapacidad
- y para aquellos niños y adolescentes que se encuentren en instituciones de régimen cerrado o contextos de privación de libertad
+3. ¿Cómo comunicarlo a las familias respetando la privacidad?
+Para comunicar las situaciones observadas a los padres o tutores resguardando el régimen legal de datos personales (Ley 25.326):
+Canal institucional y privado: Toda reunión o informe con los tutores legales debe ser personal e individualizado, resguardando la intimidad del estudiante y su entorno familiar
+.
+Derecho de información y notificación previa: Los padres tienen derecho a ser informados periódicamente del proceso educativo de sus hijos
+, debiendo notificárseles con claridad la finalidad para la cual se recaba o trata cualquier información
+.
+Deber de secreto profesional y confidencialidad: El personal docente, directivo y de gabinetes está legalmente obligado a guardar secreto profesional sobre los datos recolectados
+, garantizando la seguridad técnica de los archivos para evitar accesos no autorizados
+.
+Tratamiento estricto de datos sensibles: La información referida a salud, convicciones o situaciones familiares complejas constituye dato sensible
+ y no puede ser difundida ni compartida sin consentimiento expreso
+, salvo por obligación legal o razones sanitarias/judiciales debidamente justificadas
+.
+Resguardo contra la estigmatización: Está prohibida cualquier modalidad de comunicación o publicación que exponga la identidad del alumno o genere estigmatización en la comunidad escolar
+.
 
 ## Hallazgos clave
 Marcá cada uno con **[VERIFICADO]** si lo contrastaste con la fuente original o **[REVISAR]** si no pudiste verificarlo.
