@@ -1,6 +1,6 @@
 # Presentación para la reunión de familias (Gamma)
 
-- **Enlace público de Gamma:**
+- **Enlace público de Gamma:** https://gamma.app/docs/Reunion-de-familias-2-ano-B-oi8kalh7b3rcdrw
 
 ## Estructura obligatoria (6 láminas)
 1. Portada (curso, escuela, fecha de reunión)
