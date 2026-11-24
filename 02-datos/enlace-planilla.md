@@ -1,7 +1,7 @@
 # Planilla de asistencia
 
 - **Enlace a Google Sheets (cualquier persona con el enlace puede ver):**
-- **Archivo subido:** `02-datos/planilla.xlsx`
+- **Archivo subido:** 
 
 ## Hojas incluidas
 1. Datos
