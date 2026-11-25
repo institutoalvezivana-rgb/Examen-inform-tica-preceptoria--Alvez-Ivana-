@@ -3,9 +3,9 @@
 Registrá **todos** los prompts que usaste durante el examen, en cualquier herramienta (Perplexity, NotebookLM, Claude, Gamma).
 
 ## Prompt 1
-- **Herramienta:**
-- **Etapa:**
-- **Prompt:**
+- **Herramienta:** Perplexity 
+- **Etapa:** 1
+- **Prompt:** 
 - **Qué respondió (resumen):**
 - **Qué acepté / qué corregí y por qué:**
 
