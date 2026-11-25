@@ -7,7 +7,7 @@
 
 ## 1. Qué tenés que lograr
 
-Construir, dentro de este repositorio, un **dossier de seguimiento de asistencia** para el curso del caso *2.º B – Escuela Secundaria "Tres Fronteras"*: una investigación, una planilla, un informe, una presentación para las familias, tu registro de uso de IA y la aplicación de las herramientas a tu rol de preceptor/a.
+Construir, dentro de este repositorio, un **dossier de seguimiento de asistencia** para el curso del caso  *2.º B – Escuela Secundaria "Tres Fronteras"*: una investigación, una planilla, un informe, una presentación para las familias, tu registro de uso de IA y la aplicación de las herramientas a tu rol de preceptor/a.
 
 **Se evalúa únicamente lo que quede en tu repositorio al terminar los 80 minutos.** Si algo no está en el repo (o el enlace no abre), no se evalúa.
 
