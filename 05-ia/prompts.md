@@ -37,11 +37,20 @@ La Resolución MECyT N.º 076/22, adherida por Resolución CGE N.º 365/23, plan
 - **Qué acepté / qué corregí y por qué:** corregi que sea más explicito, porque asi se logra comprender de manera inmediata 
 
 ## Prompt 2
-- **Herramienta:**
-- **Etapa:**
-- **Prompt:**
-- **Qué respondió (resumen):**
-- **Qué acepté / qué corregí y por qué:**
+- **Herramienta:** Claude 
+- **Etapa:** 2
+- **Prompt:** Estructura obligatoria del informe (1–2 páginas)
+
+Resumen ejecutivo (máximo 5 líneas)
+Marco y fuentes (mínimo 3 fuentes citadas con enlace)
+Situación del curso (1 tabla y 1 gráfico traídos de la planilla)
+Plan de acción (mínimo 3 acciones, cada una con responsable y plazo)
+Modelo de nota a las familias (hasta 120 palabras, sin datos individuales)
+
+Uso de IA (3 líneas: herramienta, qué se pidió, qué se corrigió) Caso: ausentismo en 2.º B – Escuela Secundaria "Tres Fronteras"
+Sos preceptor/a de 2.º año B del turno mañana de la Escuela Secundaria "Tres Fronteras". El curso tiene 28 estudiantes. En los primeros 20 días hábiles del bimestre, el equipo directivo detectó un aumento de las ausencias y de las llegadas tarde. Salida PDF
+- **Qué respondió (resumen):** Devolvio el PDF del informe
+- **Qué acepté / qué corregí y por qué:** Corregí que sea de manera adecuada segun la estructura que se le pidio que lo realice 
 
 ## Prompt 3
 - **Herramienta:**
